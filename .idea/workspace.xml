@@ -22,12 +22,7 @@
     <list default="true" id="581bf7e8-3557-4f2e-8075-bd829ddfc758" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/instant.html" beforeDir="false" afterPath="$PROJECT_DIR$/instant.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/log-in.html" beforeDir="false" afterPath="$PROJECT_DIR$/log-in.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recover-password.html" beforeDir="false" afterPath="$PROJECT_DIR$/recover-password.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/savings.html" beforeDir="false" afterPath="$PROJECT_DIR$/savings.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sign-in.html" beforeDir="false" afterPath="$PROJECT_DIR$/sign-in.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +81,7 @@
       <workItem from="1628275011809" duration="14403000" />
       <workItem from="1628321057636" duration="2481000" />
       <workItem from="1628323627846" duration="102000" />
-      <workItem from="1628327234568" duration="1652000" />
+      <workItem from="1628327234568" duration="5539000" />
     </task>
     <servers />
   </component>

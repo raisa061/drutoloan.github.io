@@ -1122,6 +1122,13 @@ textarea.form-control {
     left: 0;
     top: 3px
 }
+.our-vision-area .vision-content .vision-list ul li .process {
+    font-size: 25px;
+    font-weight: 400;
+    position: absolute;
+    left: 0;
+    top: 3px
+}
 
 .services-area {
     position: relative;
