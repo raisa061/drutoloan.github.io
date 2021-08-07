@@ -4605,7 +4605,13 @@ textarea.form-control {
     color: #262566;
     font-size: 14px;
     padding-left: 35px;
+    margin: 10px 0;
     position: relative
+}
+.service-details-wrap ul li p{
+    color: #6e6e6e;
+    font-weight: 500;
+    font-size: 14px;
 }
 
 .service-details-wrap ul li i {
