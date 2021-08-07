@@ -21,7 +21,13 @@
   <component name="ChangeListManager">
     <list default="true" id="581bf7e8-3557-4f2e-8075-bd829ddfc758" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/instant.html" beforeDir="false" afterPath="$PROJECT_DIR$/instant.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log-in.html" beforeDir="false" afterPath="$PROJECT_DIR$/log-in.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recover-password.html" beforeDir="false" afterPath="$PROJECT_DIR$/recover-password.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/savings.html" beforeDir="false" afterPath="$PROJECT_DIR$/savings.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sign-in.html" beforeDir="false" afterPath="$PROJECT_DIR$/sign-in.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +52,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../reserveit/ReserveIt.github.io" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../template_Surety/templates.envytheme.com/surety/default/home-insurance.html" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -80,7 +86,7 @@
       <workItem from="1628275011809" duration="14403000" />
       <workItem from="1628321057636" duration="2481000" />
       <workItem from="1628323627846" duration="102000" />
-      <workItem from="1628327234568" duration="689000" />
+      <workItem from="1628327234568" duration="1652000" />
     </task>
     <servers />
   </component>
@@ -103,10 +109,10 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1628327268799">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1628328009008">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1628327268799" />
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1628328009008" />
     <state x="277" y="57" key="SettingsEditor" timestamp="1627545214973">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
