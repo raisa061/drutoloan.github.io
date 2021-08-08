@@ -1755,7 +1755,7 @@ textarea.form-control {
 }
 
 .footer-top-area {
-    background-image: url(../img/footer-bg.png);
+    background-image: url(../img/1.9.jpeg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1981,7 +1981,7 @@ textarea.form-control {
 
 .main-banner-area-two {
     position: relative;
-    background-image: url(../img/banner/banner-img-2.jpg);
+    background-image: url(../img/banner/1.1.jpeg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -2031,7 +2031,7 @@ textarea.form-control {
 }
 
 .main-banner-area-two .banner-img {
-    background-image: url(../img/banner/banner-img-right.jpg);
+    background-image: url(../img/banner/1.1.jpeg);
     background-position: right;
     background-repeat: no-repeat;
     background-size: cover;
@@ -2065,7 +2065,8 @@ textarea.form-control {
 }
 
 .service-area-two .single-service img {
-    border-radius: 4px 4px 0 0
+    border-radius: 4px 4px 0 0;
+    height: 250px;
 }
 
 .service-area-two .single-service .service-content {
@@ -2507,6 +2508,11 @@ textarea.form-control {
 
 .about-area-three .about-img-3 img {
     border-radius: 4px
+}
+
+.loan-img img{
+    height: 330px;
+    width: 490px;
 }
 
 .services-area-three .single-choose {
